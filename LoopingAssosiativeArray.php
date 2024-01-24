@@ -36,5 +36,4 @@ foreach($items as $key => $value) {
 }
 
 print_r($rest);
-echo "TEST REVISI GITHUB";
         
